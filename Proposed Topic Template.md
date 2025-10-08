@@ -9,7 +9,7 @@
 ### 👥 Thành viên nhóm  
 | 👤 Họ và tên 🧑‍🎓    | 🆔 Mã sinh viên 🧾 | 🐙 Tên GitHub 🔗   |
 |---------------------|---------------------|---------------------|
-| Nguyễn Mai Hoàng Anh | 23001824 | 23001824-hoanganh |
+| Nguyễn Mai Hoàng Anh | 23001824 | 23001824-HoangAnh |
 | Nguyễn Thị Lan Anh   | 23001826 | lanAnhne29 |
 | Bùi Xuân Chung       | 23001838 | 23001838-hub |
 | Đào Ngọc Cường       | 23001841 | daongocuong |
